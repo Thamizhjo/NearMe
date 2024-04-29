@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 05.04.2024
+## Date: 29.04.2024
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -42,7 +42,7 @@ map.html
         <font color="red"><b>Villupuram</b></font>
     </h1>
     <h3 align="center">
-        <font color="blue"><b>Kishore M (212221043003)</b></font>
+        <font color="blue"><b>Thamizh kumaran (212223240166)</b></font>
     </h3>
     <center>
         <img src="map1.png" usemap="#MyCity" height="914" width="1920">
@@ -95,7 +95,7 @@ sacredherat.html
 <html lang="en">
 
 <head>
-    <title>sacredherat</title>
+    <title>sacredheart</title>
 </head>
 
 <body bgcolor="pink">
@@ -103,7 +103,7 @@ sacredherat.html
         <font color="red"><b>Villupuram</b></font>
     </h1>
     <h3 align="center">
-        <font color="blue"><b>sacredherat</b></font>
+        <font color="green"><b>sacredheart</b></font>
     </h3>
     <hr size="3" color="red">
     <p align="justify">
@@ -227,13 +227,12 @@ sportsstadium.html
 ```
 ## OUTPUT
 
-![alt text](1.png)
-![alt text](2.png)
-![alt text](3.png)
-![alt text](4.png)
-![alt text](5.png)
-![alt text](6.png)
-
+![image](https://github.com/Thamizhjo/NearMe/assets/123891476/185b9944-d21e-477e-8d58-625236d7b206)
+![image](https://github.com/Thamizhjo/NearMe/assets/123891476/708f00fb-983a-4eca-b616-900020991de3)
+![image](https://github.com/Thamizhjo/NearMe/assets/123891476/ff5fca64-3a67-4ecc-ac67-8c9e1c4e348b)
+![image](https://github.com/Thamizhjo/NearMe/assets/123891476/7bec9181-123e-4cae-8ef6-2f82ecc52933)
+![image](https://github.com/Thamizhjo/NearMe/assets/123891476/a09d5817-37ae-4b56-9561-f7fb69fa6439)
+![image](https://github.com/Thamizhjo/NearMe/assets/123891476/31154205-74bd-4eee-a736-ec844f29705d)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
